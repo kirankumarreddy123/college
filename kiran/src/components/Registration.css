@@ -1,0 +1,31 @@
+table{
+    border: 2px solid black;
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    margin-top:0px;
+    margin-left: 450px;
+    text-align: left;
+    font-size:x-large;
+}
+/* body{
+    background-color: navajowhite;
+} */
+button{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    color: blue;
+    margin-left: 150px;
+}
+#I1{
+    width: 150%;
+    margin-left: 160px;
+    
+}
+#r1{
+    /* margin-left: 400px; */
+    margin-top: -20px;
+    text-align: end;
+    font-size:xx-large;
+}

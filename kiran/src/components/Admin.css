@@ -1,0 +1,25 @@
+h1{
+    margin-left: 370px;
+    font-size: 50px;
+}
+textarea{
+    margin-left: 240px;
+    margin-top: 25px;
+}
+/* body{
+    background-color: lightblue;
+} */
+#l1{
+    height: 30px;
+    width: 190px;
+    margin-left: 500px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ /* .new{
+    margin-left: 240px;
+} */
+.logo{
+    margin-left: 260px;
+}

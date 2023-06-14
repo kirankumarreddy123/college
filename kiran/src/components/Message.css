@@ -1,0 +1,40 @@
+#f3{
+    border: 2px solid black;
+    margin-left: 270px;
+    margin-top: -510px;
+    height: 500px;
+    width: 1300px;
+}
+#request{
+    background-color:aqua;
+    color:black;
+    justify-content: center;
+    width: 1300px;
+    height: 54vh;
+    margin:  1em auto;
+    text-align:left;
+    position: relative;
+    left: 180px;
+    font-weight: bold;
+    font-size: large;
+    top: 80px;
+    align-content: center;
+    margin-left: -180px;
+    margin-top: -132px;
+}
+#f1{
+    border: 2px solid black;
+    height: 500px;
+    width: 200px;
+    margin: 5px;
+    margin-top: 1px;
+    
+}
+#I1{
+    width: 150%;
+    margin-left: 160px;
+}
+button{
+    margin-left: 20px;
+   
+}
